@@ -1,4 +1,4 @@
-###Smart Farming Seed Classification Model using K-Nearest Neighbors
+#Smart Farming Seed Classification Model using K-Nearest Neighbors
 This is a machine learning model designed to help farmers decide which type of seeds to grow based on the environmental conditions of their farm. The model uses the K-Nearest Neighbors (KNN) algorithm to classify the seeds based on the similarity of their environmental conditions to those in the training dataset.
 
 How to Use
